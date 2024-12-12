@@ -1,4 +1,4 @@
-module github.com/fluxcd/pkg/ssa
+module github.com/94danielbrown/pkg/ssa
 
 go 1.23.0
 
